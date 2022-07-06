@@ -1,0 +1,13 @@
+body {
+    background: #ffffff url("C:\Users\tonyy\OneDrive\Рабочий стол\сайт\project-gloevk\img\livsyi.jpg") no-repeat top center;
+}
+h1 { color: tomato;
+        font-family: sans-serif">Дневник Белки"
+}
+p {
+    color: whitesmoke;
+}
+li {
+    color: wheat;
+}
+div {outline: 1px solid black;}
